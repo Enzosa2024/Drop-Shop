@@ -1,0 +1,7 @@
+{
+  "name": "Drop Shop",
+  "description": "A comprehensive e-commerce and dropshipping platform with social features, secure PIX payments, and seller tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
